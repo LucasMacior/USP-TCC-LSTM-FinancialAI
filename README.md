@@ -49,6 +49,3 @@ Os membros da banca ressaltaram que o trabalho está bem estruturado e delineado
 
 Se você tiver interesse em contribuir para este projeto ou sugerir melhorias, fique à vontade para enviar um **Pull Request** ou abrir uma **Issue**!
 
----
-
-Agora é só copiar e colar este conteúdo dentro do arquivo `README.md` no seu repositório GitHub! Se precisar de mais alguma personalização, estou à disposição. 🚀😊
