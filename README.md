@@ -40,5 +40,3 @@ Com base nas sugestões da banca examinadora, as próximas etapas do projeto inc
 
 Se você tiver interesse em contribuir para este projeto ou sugerir melhorias, fique à vontade para enviar um **Pull Request** ou abrir uma **Issue**!
 
----
-
