@@ -19,12 +19,12 @@ Inicialmente, o código replicará fielmente a primeira versão do projeto desen
 
 ## 🏗️ Estrutura do Projeto
 
-O projeto utiliza abordagens de **aprendizado de máquina** e redes **LSTM e recorrentes**. Alguns dos principais componentes incluem:
+O projeto utiliza abordagens de **aprendizado de máquina** e o modelo de rede neural **Long Short-Term Memory – LSTM**. Alguns dos principais componentes incluem:
 
 - **Coleta de Dados**: Série histórica de preços dos contratos futuros de dólar na B3.
 - **Processamento de Dados**: Normalização e manipulação dos dados para alimentação da rede neural.
-- **Implementação de Modelos**: Treinamento e avaliação dos modelos de redes neurais.
-- **Análise de Resultados**: Definição de métricas de acurácia e comparação entre modelos.
+- **Implementação de Modelos**: Treinamento e avaliação do modelo.
+- **Análise de Resultados**: Definição de métricas de acurácia e comparações.
 
 ## ✨ Melhorias Futuras
 
@@ -35,15 +35,6 @@ Com base nas sugestões da banca examinadora, as próximas etapas do projeto inc
 - Explicação aprofundada de conceitos como **dropout** e **arquitetura da rede**.
 - Definição mais precisa de métricas de acurácia.
 - Testes com diferentes arquiteturas de redes neurais.
-
-## 🏆 Parecer da Banca Examinadora
-
-Os membros da banca ressaltaram que o trabalho está bem estruturado e delineado. Algumas sugestões para aprimoramento incluem:
-
-- Ajuste de formatação de acordo com o manual da instituição.
-- Aprimoramento das citações e normas acadêmicas.
-- Revisão teórica com novos estudos acadêmicos na mesma linha de pesquisa.
-- Discussão dos resultados separadamente para cada tipo de rede testada.
 
 ## 📝 Contribuições
 
