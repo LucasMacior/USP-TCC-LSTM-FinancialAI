@@ -1,0 +1,3 @@
+[submodule "time-series-forecasting-pytorch"]
+	path = time-series-forecasting-pytorch
+	url = https://github.com/jinglescode/time-series-forecasting-pytorch.git
